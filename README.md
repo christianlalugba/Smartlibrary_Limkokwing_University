@@ -50,3 +50,9 @@ python main.py
 - Club management
 - Interactive dashboard
 - Admin settings & permissions
+
+  # ERD Digram photo
+  ![20251209_102731](https://github.com/user-attachments/assets/cfc8afec-054c-4d6b-be3e-2b2216b3ce98)
+
+
+
